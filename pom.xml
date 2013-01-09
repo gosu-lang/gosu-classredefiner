@@ -4,7 +4,7 @@
 
   <groupId>org.gosu-lang.gosu</groupId>
   <artifactId>gosu-classredefiner</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Gosu Class Redefiner</name>
   <packaging>jar</packaging>
 

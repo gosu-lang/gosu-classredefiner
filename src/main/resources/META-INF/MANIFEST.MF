@@ -4,7 +4,7 @@ Bundle-Name: gosu-classredefiner
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-SymbolicName: org.gosu-lang.gosu.gosu-classredefiner
 Bundle-Vendor: Guidewire Software, Inc.
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.1
 Can-Redefine-Classes: true
 Can-Retransform-Classes: true
 Export-Package: gw.classredefiner
