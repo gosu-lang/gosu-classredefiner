@@ -54,14 +54,6 @@
     </plugins>
   </build>
 
-  <pluginRepositories>
-    <pluginRepository>
-      <id>gw.releases.build</id>
-      <url>http://nexus.guidewire.com/content/repositories/releases/</url>
-      <name>Guidewire internal releases repository</name>
-    </pluginRepository>
-  </pluginRepositories>
-
   <distributionManagement>
     <repository>
       <id>gosu-lang.org-gosu</id>
